@@ -2,4 +2,4 @@
 all: copy
 
 copy:
-	cp dist/* /var/www/done.txt
+	cp -R dist/* /var/www/done.txt
