@@ -1,0 +1,954 @@
+x 2015-06-02 I think this is an important thing
+x 2015-06-02 I think this is an important thing
+x 2015-06-02 I think this is an important thing
+x 2015-06-02 I think this is an important thing
+x 2015-06-03 figure out if braintree supports paying TOs +TreeBrain @oomba
+x 2015-06-05 redirect TO in tourny creation when an entry fee is created to mechant onboarding page +TreeBrain @oomba
+x 2015-06-06 get regex added rule to work w+TreeBrain @work
+x 2015-06-04 2015-06-03 Test @test
+x 2015-06-08 2015-06-04 Get Dropbox working on Alexis +todo.txt @personal
+x 2015-06-10 make video model @work +add_video_to_tournaments
+x 2015-06-10 2015-06-09 Text beferly back @personal
+x 2015-06-10 make stream model @work +add_stream_to_tournaments
+x 2015-06-11 2015-06-09 send Evan all the deets about kesha @personal
+x 2015-06-11 make stream upload page @work +add_stream_to_tournaments
+x 2015-06-11 use jquery validation to stop people from entering bad urls @work +add_stream_to_tournaments
+x 2015-06-14 acquire a place to live @personal
+x 2015-06-17 2015-06-09 finish c++ phone app +UCIEnrollment @school
+x 2015-06-17 2015-06-14 Pay toll road @personal
+x 2015-06-17 2015-06-14 C++ flash cards @school +UCIEnrollment
+x 2015-06-19 2015-06-17 Add the words twitch and YouTube to stream modal @work
+x 2015-06-22 2015-06-17 Fix merchant account warning. @work
+x 2015-06-22 2015-06-09 Cancel vital membership @personal
+x 2015-06-23 2015-06-22 Get blood work done, call 9496408534 or go to 400 Newport Center DR suite 202 Newport Beach CA 92660 @school +UCIEnrollment
+x 2015-06-23 put email sending function in matches model state machine @work
+x 2015-06-24 call dad about insurance for uci @school +UCIEnrollment
+x 2015-06-24 Figure out how to test emails from development @work
+x 2015-06-24 create mailer for tournament invites @work
+x 2015-06-24 create text and html views for tournament invites @work
+x 2015-06-24 2015-06-24 Mess with rails ERD @work
+x 2015-06-24 Make email invite persona creation path work @work
+x 2015-06-25 2015-06-24 Email dad UCI insurance stuff @school +UCIEnrollment
+x 2015-06-26 test invite account creation @work
+x 2015-06-26 register personal domain @personal +Room8sWebsite
+x 2015-06-27 @work change tournament and event invite emails so that they link to the tournament
+x 2015-06-27 @work remove message field from tournaments invite modal
+x 2015-06-27 @work fix email path for manual tournament sign up
+x 2015-06-27 @work make notification email for creating an account
+x 2015-06-27 test manual account creation @work
+x 2015-06-29 hookup tournament invites to button on dashboard
+x 2015-06-29 create Room8s github repository @personal +Room8sWebsite
+x 2015-06-29 @work style notification emails so they look better
+x 2015-06-29 @work make fee and prize things a text field
+x 2015-06-30 pickup Transcript from Miracosta order number:5FX723122 @school +UCIEnrollment
+x 2015-06-30 @work fix you will be notified flash message manual user add
+x 2015-07-01 @work remove mikes name
+x 2015-07-01 @work fix add fee and prize button
+x 2015-07-01 @work fix add fee and prize button
+x 2015-07-03 get IGETC certification from MiraCosta +UCIEnrollment @school
+x 2015-07-03 chang transfer thing to not the 10th @school +UCIEnrollment
+x 2015-07-03 2015-07-03 Create a list of class needed for CS and SE and compare them then decide which major you want @school +UCIEnrollment
+x 2015-07-03 @work take out top image from match posting emails
+x 2015-07-05 @work Remove edit button from tournaments
+x 2015-07-06 @work fix text emails
+x 2015-07-06 @work find nicks length bug on login modal
+x 2015-07-07 @work add link to email match posting email
+x 2015-07-07 @work make email do the plaintext mode
+x 2015-07-08 @work Remove end tiem from tournys
+x 2015-07-08 finish validating sign up modal @work
+x 2015-07-09 @work figure out how to add merchant accounts to users/personas
+x 2015-07-12 2015-07-11 Sarah ear plugs @personal
+x 2015-07-14 make htop not show duplicate processes
+x 2015-07-14 @work setup jquery validation for tournament createion
+x 2015-07-15 Generate base rails room8s website +room8s @personal
+x 2015-07-16 @work style the login modal so it doesnt look like trash
+x 2015-07-16 learn and set up rspec +room8s @personal
+x 2015-07-17 @work setup ruby validation for tournament createion
+x 2015-07-18 @work fix registration button for logged in user
+x 2015-07-18 2015-07-18 @personal add tmux auto start to Sarah's bashrc
+x 2015-07-18 @work fix braintree javascript error
+x 2015-07-18 @work make emails a background process
+x 2015-07-18 @work make checkout button registration button and make it work
+x 2015-07-19 finish drawing up table designs +add
+x 2015-07-19 read forum for stuck clutch +add
+x 2015-07-19 write bailey and email with wood specifications +add
+x 2015-07-19 watch video of clutch master cylinder being repaired +add
+x 2015-07-19 make a file with all table building materials and project goals +add
+x 2015-07-19 write up clutch repair plan +add
+x 2015-07-19 figure out UCI tuition and class stuff +UCIEnrollment
+x 2015-07-20 2015-07-18 @personal set up tmux copy to clipboard for Sarah +sarah
+x 2015-07-20 @personal put system back in PS1
+x 2015-07-20 ask sarah if she wants me to turn off spotify popups @personal +sarah
+x 2015-07-20 watch video of clutch master cylinder being repaired +add
+x 2015-07-20 2015-07-05 Make mark ICE @personal
+x 2015-07-20 2015-06-23 Finish Wells Fargo student loan application. @school
+x 2015-07-21 @work make invoice for hutch for April
+x 2015-07-21 @work make invoice for hutch for June
+x 2015-07-21 2015-07-11 Take sarah on a hike @personal +sarah
+x 2015-07-21 @work fix password recover
+x 2015-07-21 @work make invoice for hutch for March
+x 2015-07-21 @work make invoice for hutch for May
+x 2015-07-21 @work make invoice for hutch for July
+x 2015-07-24 @work create js error file to display invalid email error
+x 2015-07-24 @work fix password recover
+x 2015-07-24 @work format the reset you password page
+x 2015-07-24 @work use ruby to check for error and add them to page whenever a submit button is pushed
+x 2015-07-24 @work write code to check birthday in passwords controller
+x 2015-07-24 @work make successful password reset redirect to home page
+x 2015-07-25 @work +TV fix embed url upload
+x 2015-07-27 @work +TV if live video replace rating with countdown time
+x 2015-07-28 @work +TV if live video and is live now show a live redlight or something
+x 2015-07-29 @work make youtube live videos resize
+x 2015-07-29 @personal make project creation script for todo.txt
+x 2015-07-29 @work strip whitespace from email invite field
+x 2015-07-29 @work +TV make a route and controller actiont that changes a video from live to live_now to vod
+x 2015-07-29 @personal make note files vim outliner files
+x 2015-07-29 @work +TV create logic for start and end time display on tv homepage
+x 2015-07-30 @work make sure that create account checks if email already exists
+x 2015-07-30 @work fix admin registration button
+x 2015-07-30 Epoxy soldering iron stand back together @personal
+x 2015-08-04 learn and set up devise +room8s @personal
+x 2015-08-04 create user scaffold +room8s +add
+x 2015-08-04 2015-07-21 +UCIEnrollment get loan stuff worked out
+x 2015-08-04 put air in justins tires @personal
+x 2015-08-04 Take sarah on a hike @personal +sarah
+x 2015-08-04 finish making dotfile backup @personal +terminal
+x 2015-08-06 @work Get errors working on create account
+x 2015-08-10 @work use javascript to add a spinner to form submit buttons in buttons.js
+x 2015-08-10 @work +ButtonSpinner think of some logic that makes the button not spin unless the form has been submitted
+x 2015-08-10 @work +ButtonSpinner Ask tyler what is loading the invalid email or password on the modal then figure out how to use that to make the spinner go away
+x 2015-08-11 do a thing +derp @deleteMe
+x 2015-08-11 do another thing +derp @deleteMe
+x 2015-08-11 do this thing +derp @deleteMe
+x 2015-08-11 do a thing +derp
+x 2015-08-11 do another thing +derp
+x 2015-08-11 do this thing +derp
+x 2015-08-11 figure out how to make this take in an optional argument +"=================================================================================== @tag
+x 2015-08-11 TODO do a thing +derp @delete
+x 2015-08-11 TODO do another thing +derp @delete
+x 2015-08-11 TODO do this thing +derp @delete
+x 2015-08-11 do a thing +derp @derp
+x 2015-08-11 do another thing +derp @derp
+x 2015-08-11 do this thing +derp @derp
+x 2015-08-11 @personal make double comma commands for vimoutliner work
+x 2015-08-11 thing +derp @a:1
+x 2015-08-11 other thing +derp
+x 2015-08-11 other thing +derp @Bleh
+x 2015-08-11 other thing +derp @delete
+x 2015-08-11 other thing +derp @delete
+x 2015-08-11 other thing +derp @delete
+x 2015-08-11 other thing +derp @delte
+x 2015-08-11 other thing +derp @delete
+x 2015-08-11 other thing +derp @delete
+x 2015-08-11 derp +derp @delet
+x 2015-08-11 create event details modal and make it display on the home page +KioskMode @tag
+x 2015-08-11 @work create event details modal and make it display on the home page +kioskmode
+x 2015-08-11 create event details modal and make it display on the home page +KioskMode @work
+x 2015-08-12 Create a new resticted layout that is universal +KioskMode @work
+x 2015-08-12 Test restricted layout +KioskMode @work
+x 2015-08-12 Create view that uses restricted layout +KioskMode @work
+x 2015-08-12 Replicate homepage background switching +KioskMode @work
+x 2015-08-12 Create fake modal on page that won’t close +KioskMode @work
+x 2015-08-13 Create modal view for register for event +KioskMode @work
+x 2015-08-13 @personal +terminal set up vim notes hot keys
+x 2015-08-13 have mom complete student loan forms +UCIEnrollment
+x 2015-08-13 @personal extend to do to work with eisenhower chart
+x 2015-08-13 @personal cache stackoverflow and wikipedia and other important sites so you can view them offline
+x 2015-08-13 make bin folder a git repo @personal
+x 2015-08-13 write script that checks diffs bin repo and add it to mux home @personal
+x 2015-08-13 @personal Research a nootropic rating system
+x 2015-08-13 learn how to play lonesome polecat on harmonica +add
+x 2015-08-13 learn GB
+x 2015-08-13 foreman start -f Procfile.dev! Do finish uploading catan video
+x 2015-08-16 2015-06-09 get transcripts from RAI and send them to UCI +UCIEnrollment  @school
+x 2015-08-18 Create modal view for displaying tournament info +KioskMode @work
+x 2015-08-19 @work figure out why page is not reloading on click
+x 2015-08-20 @work figure out how to make sign-ups added via event
+x 2015-08-20 Create modal view for login or join +KioskMode @work
+x 2015-08-20 Add code to todo.sh that allows for a numberic urgency rating *eisenhower*
+x 2015-08-20 @work check if user is already registered for tournament
+x 2015-08-20 Create modal view for register for event +KioskMode @work
+x 2015-08-25 learn Oh Susanna @harmonica
+x 2015-08-25 Migrate chrome to kylesanclemente@gmail.com @personal
+x 2015-08-25 2015-06-14 Go through emergency training @personal
+x 2015-08-25 @work create thank you screen that auto redirects
+x 2015-08-29 2015-06-23 Call Dr Clark to verify bloodwork @school +UCIEnrollment
+x 2015-09-01 Call UCI and figure out why you're not enrolled in ics 51 +UCIEnrollment
+x 2015-09-01 Set up zot direct deposit +UCIEnrollment
+x 2015-09-02 @work Create specific emails from participant modal
+x 2015-09-04 make john cena easter egg! +LoginSignUpAndKioskMode @work
+x 2015-09-05 make error messages persistent until the field is valid +LoginSignUpAndKioskMode @work
+x 2015-09-05 make errors turn the field boarder red +LoginSignUpAndKioskMode @work
+x 2015-09-06 Tithe @personal
+x 2015-09-06 @work review tylers pr
+x 2015-09-07 change login modal width to 500px +LoginSignUpAndKioskMode @work
+x 2015-09-08 increase checkbox size for terms +LoginSignUpAndKioskMode @work
+x 2015-09-08 change birthday to a 3 field dropdown menu +LoginSignUpAndKioskMode @work
+x 2015-09-08 make arrow float box to the right of the field +LoginSignUpAndKioskMode @work
+x 2015-09-08 add category headers to input fields login +LoginSignUpAndKioskMode @work
+x 2015-09-14 Figure out how to send notifications from a rails console +Notifications @work
+x 2015-09-14 Make sure model has all necessary fields +Notifications @work
+x 2015-09-14 Update service so it can effectively create a JSON object for each +Notifications @work
+x 2015-09-16 @work Fix Error
+x 2015-09-17 Add notification_prefs to users +Notifications @work
+x 2015-09-18 Call Sallie Mae about loan then UCI +UCIEnrollment
+x 2015-09-18 figure out how to build user settings with defaults on user creation @work +Notifications
+x 2015-09-20 write the form that allows a user to select their notification preferences +Notifications @work
+x 2015-09-20 Write the logic to handle user notification preferences +Notifications @work
+x 2015-09-21 Write out class schedule in keep @school
+x 2015-09-21 Write Tests for notification prefrences +Notifications @work
+x 2015-09-21 write tests for notification form submission +Notifications @work
+x 2015-09-22 finish todoifying white board +Notifications @work
+x 2015-09-22 tell nick hi @work
+x 2015-09-22 tell nick hi @wrok
+x 2015-09-23 learn linux mail @personal
+x 2015-09-24 print or ferry tickets @personal
+x 2015-09-28 at the start of fall quarter go to registrars office and accept ICS 45C grade @school +UCIEnrollment
+x 2015-09-30 Organize all class folders in Dropbox and set up correct bookmarks @school
+x 2015-09-30 Skim lecture notes #1 @school +ICS46
+x 2015-10-01 Complete and submit programming assignment #0 @school +ICS46
+x 2015-10-02 do zybook reading 1 @school +ICS6B
+x 2015-10-05 Remove mobile option from notification setting @work +Notifications
+x 2015-10-07 do quiz 1 +ICS46 @school
+x 2015-10-09 upload lab 2 zip @school +ICS51
+x 2015-10-09 Finish reading ch1 @school +ICS6B
+x 2015-10-11 take uci safety quiz @school
+x 2015-10-11 Homewokr 1 @school +ICS6B
+x 2015-10-11 Read Lecture notes #1 @school +ICS46
+x 2015-10-12 Write down converse, contrapositive and inverse @school
+x 2015-10-14 Project 1 +ICS46 @school
+x 2015-10-14 Homework1 +ICS51 @school Due Oct 14th
+x 2015-10-14 Homework 2 +ICS6B @school
+x 2015-10-16 Quiz 2 +ICS46 @school
+x 2015-10-16 Program2 +ICS46 @school
+x 2015-10-16 Lab3 +ICS51 @school
+x 2015-10-16 Setup automatic payments for Sallie Mae @persona @school
+x 2015-10-17 do reading for Wed and that part of HW3 +ICS6B @school
+x 2015-10-17 Modify the create action in notification_creation_service to take the proper inputs +Notifications @work
+x 2015-10-17 Reorganize notification creation service with comments @work +Notifications
+x 2015-10-19 Call Sallie Mae @school
+x 2015-10-19 Call hyundai building about tour @sarah
+x 2015-10-19 Finish reading Ch2 +ICS6B @school
+x 2015-10-21 HW3 +ICS6B @school
+x 2015-10-21 Write Notification List(index) API call +Notifications @work
+x 2015-10-24 Write Notification Read(update) API call +Notifications @work
+x 2015-10-27 Make haircut appointment @personal
+x 2015-10-28 10/26 read test sections +ICS46 @school
+x 2015-10-28 Pay credit card
+x 2015-10-28 10/23 Skim Ch2 +ICS51 @school
+x 2015-10-28 10/23 Skim Ch3 +ICS51 @school
+x 2015-10-28 Find solutions for edition 5  solution manual +ICS51 @school
+x 2015-10-28 10/27 Program2 +ICS46 @school
+x 2015-10-28 10/27 Homework2 +ICS51 @school
+x 2015-10-30 10/30 Quiz4 +ICS46 @school
+x 2015-11-03 10/27 Lab4 +ICS51 @school
+x 2015-11-04 11/04 HW5 +ICS6B @school
+x 2015-11-06 11/06 Quiz 5 +ICS46 @school
+x 2015-11-08 11/6 Quiz 5 +ICS46
+x 2015-11-08 11/11 Project 3 +ICS46
+x 2015-11-12 11/10 Program 3 +ICS46 @school
+x 2015-11-14 Get google results to show up on search page @work
+x 2015-11-15 Create a list of class needed for CS and SE and compare them then decide which major you want @school +UCIEnrollment
+x 2015-11-16 Call Sallie Mae @personal @school
+x 2015-11-16 Call and Make tutoring appointment @school
+x 2015-11-16 11/16 get caught up on the reading for +ICS6B @school
+x 2015-11-16 Call Miracosta Get IGETC fixed at miraCosta @school @school
+x 2015-11-18 Submit 51 Labs @school +ICS51
+x 2015-11-22 HW 7 +ICS6B @school
+x 2015-11-22 11/22 HW 3 +ICS51 @school
+x 2015-11-22 11/20 ENROLL IN CLASSES!!!!!!!!!!!! @school
+x 2015-11-29 11/24 Program 4 +ICS46 @school
+x 2015-11-30 Quiz 7 +ICS46 @school
+x 2015-12-01 11/30 lab9 +ICS51 @school
+x 2015-12-04 12/04 Quiz8 +ICS46 @school
+x 2015-12-04 Study b-trees +ICS46 @school
+x 2015-12-04 12/02 HW9 +ICS6B @school
+x 2016-01-02 install carrierwave-crop @work
+x 2016-01-02 move cropping from to a modal @work
+x 2016-01-05 install jcrop @work
+x 2016-01-05 Enroll in piazza +ICS6N @school
+x 2016-01-06 Cancel hulu
+x 2016-01-07 Cancel marvel unlimited
+x 2016-01-07 Install MySQL see class site for details +ICS122A!
+x 2016-01-08 pre-read text prior to class +ICS139W @school
+x 2016-01-11 1/11/16 Read 3 laws of professional communication +ICS139W @school
+x 2016-01-11 1/11/16 Pick OOS system and change post to message board +ICS139W @school
+x 2016-01-11 1/11/16 Postings for companies intending to submit resume to. +ICS139W @school
+x 2016-01-11 add validation so that images that are larger or smaller than set limits cannot be uploaded @work
+x 2016-01-11 1/12/16 HW1 +ICS6N @school
+x 2016-01-11 1/15/16 have resume ready +ICS139W @school
+x 2016-01-12 resize crop canvas to image size so area outside of image cannot be cropped @work
+x 2016-01-12 1/11/16 review for quiz +STATS67 @school
+x 2016-01-12 1/12/16 homework 1 +ICS6N @school
+x 2016-01-15 1/13/16 2 printed copies of resume/cover letter +ICS139W @school
+x 2016-01-19 1/19/16 Lab 1 +ICS6N @school
+x 2016-01-25 1/22/16 Assignment 1 +ICS122A @school
+x 2016-01-25 1/19/16 HW2 +ICS6N @school
+x 2016-01-25 1/20/16 Elevator Pitch Dropbox +ICS139W @school
+x 2016-01-25 1/20/16 Final Resume Dropbox +ICS139W @school
+x 2016-01-27 Call Dr Clark about address @personal
+x 2016-01-26 1/26/16 HW3 +ICS6N @school Pri:A
+x 2016-01-27 2015-10-23 test @personal
+x 2016-01-27 Make Purchases Possible @work
+x 2016-01-29 1/29/16 Draft: 2 copies of tutorial and laptop ready to display software +ICS139W @school
+x 2016-01-31 2/01/16 Assignment 2 +CS122A @school
+x 2016-02-02 2/2/16 Lab 2 +ICS6N @school
+x 2016-02-02 2/16/16 Lab 3 +ICS6N @school
+x 2016-02-02 HW3 +STATS67 @school
+x 2016-02-02 2/2/16 HW4 +ICS6N @school
+x 2016-02-03 2/3/16 Submit Final Copy of tutorial online and edited copies in class +ICS139W @school
+x 2016-02-04 FAFSA do it @school @personal
+x 2016-02-04 move work script to tmuxinator folder. @work
+x 2016-02-15 Learn how to use UCI library resources @school
+x 2016-02-17 2/9/16 Syllogism Paper Research 3 copies +ICS139W @school
+x 2016-02-18 2/16/16 Lab 3 +ICS6N @school
+x 2016-02-20 2/19/16 assignment 4 +COMPSCI122A @school
+x 2016-02-24 2/22/16 1st draft Proposal +ICS139W @school
+x 2016-02-24 2/24/16 HW7 +ICS6N @school
+x 2016-02-24 2/22/16 Turn In Final draft of letter to dropbox +ICS139W @school
+x 2016-02-24 2/24/16 draft System change Slides +ICS139W @school
+x 2016-02-26 Get coffeelint to work @work
+x 2016-02-28 get Propsal reviewed +ICS139W @school
+x 2016-02-28 get Slides reviewed +ICS139W @school
+x 2016-03-01 2/26/16 Turn in slides to dropbox +ICS139W @school
+x 2016-03-07 3/10/16 Lab 4 +ICS6N @school
+x 2016-03-07 Draw chart and submit lab 4 @school +ICS6N
+x 2016-03-09 @work fix change payment method
+x 2016-03-09 Complete Assignment 7 +CompSci122A @@school
+x 2016-03-09 @work make live video on oomba tv refresh at zero
+x 2016-03-15 3/8/16 Study for Midterm2 +STATS67 @school
+x 2016-03-15 Get practice final off piaza @school +ICS6N
+x 2016-03-15 run  remote set-url origin git@github.com:oomba/<repo> in all directories to use ssh @work
+x 2016-03-15 run this command git remote set-url origin git@github.com:KTSCode/Linux_Config_Files.git @personal
+x 2016-03-15 Finish taking notes on Lecture 9 +CompSci122A @@school
+x 2016-03-15 Make newly created notifications push new notifications to website if website: true +Notifications @work
+x 2016-03-15 Make newly created notifications send out proper email +Notifications @work
+x 2016-03-15 Make newly created notifiacitons push notification to mobile app +Notifications @work
+x 2016-03-15 Write tests to make sure everything does what it’s supposed to +Notifications @work
+x 2016-03-15 Make sure when unread notifications haven’t been seen there is a red thing +Notifications @work
+x 2016-03-15 Create an email type for each kind of notification +Notifications @work
+x 2016-03-15 Learn to how to do mobile things then write up tasks +Notifications @work
+x 2016-03-20 run this command git remote set-url origin git@github.com:KTSCode/Linux_Config_Files.git @work
+x 2016-03-26 Finish Sahars fine art site +wordpress @personal
+x 2016-03-26 Email Sahar screenshots of the website @personal
+x 2016-03-26 Do taxes @persona
+x 2016-03-26 set up ssh to phone @personal
+x 2016-03-29 Create a question system similar to to-do script to aggregate questions +CS132 @@school
+x 2016-03-29 Write recommendation for Justin
+x 2016-03-29 Sign up for Angel.co @personal
+x 2016-03-29 Apply for summer financial aid! +ADD @school
+x 2016-03-29 get textbook +CS143A @school
+x 2016-03-31 Right-align dates worked @personal on resume
+x 2016-03-31 Get the text book +IX43 @school
+x 2016-03-31 @Q test +IX43
+x 2016-03-31 @Q test LN:30 +IX43
+x 2016-04-03 Freetaxusa. Com @personal
+x 2016-04-03 get Information Visualization: Perception for Design 3rd E Colin Ware +IX143 @school
+x 2016-04-03 Prerequisites petition @school
+x 2016-04-03 talk to counselor about CS161 @school
+x 2016-04-07 4/7/16 post an introduction to message board +IX43 @school
+x 2016-04-07 Assignment 1 +IX143 @school
+x 2016-04-07 Do Reading see website for what to read +IX43 @school
+x 2016-04-12 @Q what is the difference between Persistent and Nonpersistent HTTP connections? LN:337 +CS132 @school
+x 2016-04-12 @Q What is the difference between circuit switching vs a packet system? +CS132 @school
+x 2016-04-12 @Q What are the 4 types of OS organizations review slides? LN:184 +CS143A @school
+x 2016-04-12 4/12/16 HW1 +CS132 @school
+x 2016-04-15 Take Notes on 1.5 Network Layers LN:24 +CS132 @school
+x 2016-04-16 +Q What is the difference between prop delay vs trans delay? +CS132 @school
+x 2016-04-17 4/14/16 Homework 1 LN:194 +CS143A @school
+x 2016-04-17 UCIreplay for notes on lecture 3 LN:78 +IX43 @school
+x 2016-04-19 @Q what is the difference between preemptive and non-preemptive scheduling? LN:481 +CS143A @school
+x 2016-04-19 @Q What is the optimal CPU Scheduling Policy? LN:560 +CS143A @school
+x 2016-04-19 4/18/16 Homework 1 LN:87 +IX43 @school
+x 2016-04-20 Take Notes on 1.6 Network Security LN:25 +CS132 @school
+x 2016-04-25 Oomba timeline @work
+x 2016-04-25 Finish scheduling meetings @work
+x 2016-04-25 Prep for Paul call @work
+x 2016-04-25 find a QA person craigslist LN:17 +OoombaPM @work
+x 2016-04-25 Make Mike do ppts @work
+x 2016-04-25 text am about Bible study @God
+x 2016-04-25 Read Ch.1 of Book +CS132 @school Pri:B
+x 2016-04-25 Week 1 Reading LN:56 +IX43 @school Pri:C
+x 2016-04-25 Week 2 Reading LN:81 +IX43 @school Pri:C
+x 2016-04-25 4/20/16 Study for Midterm check dox online LN:136 +IX43 @school Pri:B
+x 2016-04-26 school script questions into @school
+x 2016-04-29 Print and sign form @work
+x 2016-05-01 Take notes on all missed sections for midterm +CS132 @school
+x 2016-05-01 Finish filling out indirect communication when slides come out LN:416 +CS143A @school
+x 2016-05-01 4/28/16 HW2 +CS132 @school
+x 2016-05-01 4/26/16 Assignment 2 +IX143 @school
+x 2016-05-01 Sign up for summer session @school
+x 2016-05-03 Asses notes for +CS132 and create tasks for it @school
+x 2016-05-03 +Q what is essence and what is the accident of a thing? +IX43 @school
+x 2016-05-03 +Q finish definition on line 12 +CS143A @school
+x 2016-05-03 Make ER diagram of roomates +CompSci122A @personal
+x 2016-05-04 Fix box account @work
+x 2016-05-11 Read Chapter 10 It’s important LN:82 +IX143 @school
+x 2016-05-11 asses notes for +CS143A and create tasks for it @school
+x 2016-05-11 cold take practice final +CS143A @school
+x 2016-05-11 complete HW2 +CS143A @school
+x 2016-05-12 Finish adding school work times
+x 2016-05-12 Create some ADD tasks @personal
+x 2016-05-12 Create ChrisB emoji @work
+x 2016-05-12 5/12/16 Assignment 4 Pt.1 +IX143 @school
+x 2016-05-12 Read through job notes @personal
+x 2016-05-13 Scraping meet up @work
+x 2016-05-13 Customer development define it(intercom) @work
+x 2016-05-14 5/13/16 Extra credit assignment +IX143 @school
+x 2016-05-16 Set up drift email and slack integration @work
+x 2016-05-16 Decide and document where oomba.com timeline will be written. @work +oomba.com Roadmunk
+x 2016-05-16 put bug form on wiki @work
+x 2016-05-17 5/17/16 HW3 +CS132 @school
+x 2016-05-17 5/17/16 Complete practice midterm +IX143 @school
+x 2016-05-19 Sscard @school
+x 2016-05-19 Write out bug SEO on wiki @work
+x 2016-05-19 Look at mind vans email @work
+x 2016-05-19 look at jamess PR @work
+x 2016-05-19 transfer anthonys tasks to trello @work
+x 2016-05-22 Write recommendation for Tyler @personal
+x 2016-05-22 Write recommendation for Nick @personal
+x 2016-05-22 5/19/16 Assignment 4 Pt.2 +IX143 @school
+x 2016-05-22 5/19/16 Homework 3 +CS143A @school
+x 2016-05-22 Write major goal outline for MVP
+x 2016-05-22 Set up oomba-api dev environment. @work
+x 2016-05-22 Decide and document where oomba.com timeline will be written. @work +oomba.com Roadmunk
+x 2016-05-24 create a pipe with mike B @work
+x 2016-05-24 Breaks on Canada @work
+x 2016-05-24 Find out exactly where white is right now @work
+x 2016-05-25 Define data entry on oomba @work
+x 2016-05-26 Put X Mike tasks on to pipefy @work
+x 2016-05-28 5/28/16 HW3A +IX43 @school
+x 2016-05-30 5/31/16 HW4 +CS132 @school
+x 2016-06-03 Put all Mike tasks on pipefy @work
+x 2016-06-02 Fix this part once slides are updated LN:1216 +CS143A @school
+x 2016-06-02 6/2/16 Assignement 4 +CS143A @school Pri:B
+x 2016-06-02 6/6/16 Programming Assignment +CS143A @school Pri:C
+x 2016-06-04 6/3/16 HW5 +CS132 @school
+x 2016-06-03 6/3/16 Wine Visualization +IX143 @school Pri:A
+x 2016-06-03 06/02/16 Messageboard Posts +IX143 @school Pri:B
+x 2016-06-08 Ask Mike to reschedule design meeting @work
+x 2016-06-08 Add delete meetup to meetup page @work
+x 2016-06-08 6/1/16 HW3B&C +IX43 @school
+x 2016-06-10 6/10/16 Extra Credit Assignment +IX143 @school
+x 2016-06-14 @work make a game validate task for tommy
+x 2016-06-14 @work put create button in the correct place tommy
+x 2016-06-14 @work make render the event show page in the event edit page James
+x 2016-06-14 @work Save button needs to go back to the show page James
+x 2016-06-14 Formally define a list of all objects on the website LN:9 +OombaPM @work
+x 2016-06-15 listen to Annalisas message and call her back @personal
+x 2016-06-19 Buy Hannah a happy cat @personal Pri:C
+x 2016-06-19 Create a stub list for anythony @work Pri:A
+x 2016-06-22 create cards for all objects on Oomba Grey @work
+x 2016-06-22 @bug remove unpublished top bar at LN:315 +OombaPM @work
+x 2016-06-23 2016-06-19 m-f 8:30-4:00 Call IRS (714) 347-9204 write down other number and make an appointment @school @personal
+x 2016-06-23 check mail for tax transript @personal @school
+x 2016-06-23 fix alpha review description @work
+x 2016-06-23 Turn in tax stuff @school
+x 2016-06-25 burn down chart @work
+x 2016-06-26 Do laundry +Portland @personal
+x 2016-06-26 Make 2 cards for beta labels @work
+x 2016-07-06 Transfer stuff to back pack
+x 2016-07-06 2 week sprints
+x 2016-07-06 Make a product manager pipe for Mike.
+x 2016-07-06 create backup live usb for both laptops @personal
+x 2016-07-06 User story new home page @work
+x 2016-07-07 Asked Tyler about Dr Appointment Car @personal
+x 2016-07-07 check to make sure beta labeling was done @work
+x 2016-07-07 Tax appeal @school
+x 2016-07-07 Backup phone @personal
+x 2016-07-08 Pick up new phone from t-mobile store! @personal
+x 2016-07-11 Write agenda for sprint planning meeting. @work +scrum min:229
+x 2016-07-10 2016-06-19 Check Transmission Fluid +Mud @personal
+x 2016-07-10 2016-07-08 Set nest away time. @work
+x 2016-07-10 2016-07-10 Epoxy connection +Mud Pri:A
+x 2016-07-11 2016-07-10 Write out all FATL user stories +scrum @work
+x 2016-07-13 2016-07-11 Get emails for robs buys @work
+x 2016-07-14 2016-07-09 Get American Airlines info for flight @personal
+x 2016-07-14 2016-07-11 Talk to Mike B about QA process @work
+x 2016-07-15 setup legacy server @work
+x 2016-07-15 2016-07-14 Pack @personal
+x 2016-07-15 notes to todo.txt @work @personal (#pomo: 2/0) note:YQC.md
+x 2016-07-15 fix pomodoro plugin so @work +todo (#pomo: 1/0)
+x 2016-07-19 add link plugin to todo.txt @work
+x 2016-07-19 Harbor freight punch set @personal +Mud
+x 2016-07-19 create retrospective agenda @work (#pomo: 1/0)
+x 2016-07-19 test
+x 2016-07-19 derp
+x 2016-07-19 decide which todo.txt plugins should be added @work +todo.txt note:aEy.md
+x 2016-07-19 Update how to pipefy @work +scrum (#pomo: 5/2)
+x 2016-07-19 setup tmux pomodoro layout @work @personal (#pomo: 0/1)
+x 2016-07-19 Download Silicon Valley to current @work
+x 2016-07-19 Upgrade todo.txt https://github.com/ginatrapani/todo.txt-cli/wiki/Todo.sh-Add-on-Directory#add-and-do--add-and-pri-in-one-step @personal @work
+x 2016-07-20 Refill and bleed clutch fluid +Mud
+x 2016-07-20 talk to Sarah about group on Thursday @personal +sarah
+x 2016-07-21 Go to uci.ed website and find out what your enrollment status is @personal
+x 2016-07-21 Convert mikes email to User Stories @work (#pomo: 3/4)
+x 2016-07-21 Email Dana Back LN:11 +ADDDump @work
+x 2016-07-21 Clean room @personal
+x 2016-07-21 Call MiraCosta about degree @personal
+x 2016-07-25 Ask Shane and Tyler about package on Tuesday the  12th
+x 2016-07-21 Register Mud @personal +Mud
+x 2016-07-24 Get stuff together +today
+x 2016-07-23 Do dishes +today
+x 2016-07-23 Kitchen counters and trash +today
+x 2016-07-23 Kitchen floor +today
+x 2016-07-26 send daren@oomba.com email @work
+x 2016-07-26 fix timesheets @work
+x 2016-07-26 add mobile checklist to alpha review phase @work
+x 2016-07-26 write up a responsive guide page @work
+x 2016-07-26 Enroll in classes @school @personal
+x 2016-07-26 Living room +today
+x 2016-07-26 @personal  email Nery about codetech.club
+x 2016-07-27 Get Robs guys setup @work
+x 2016-07-27 Make code review email form @work
+x 2016-07-27 add outline plugin to todo.txt @work
+x 2016-07-28 put links in correct places +scrum @work (#pomo: 0/1)
+x 2016-07-28 https://github.com/xzys/todotxt-study-suite @work +todo.txt
+x 2016-07-28 https://github.com/timpulver/todo.txt-graph @work +todo.txt
+x 2016-07-28 Dining room table +today
+x 2016-07-28 Vacuum downstairs +today
+x 2016-07-28 Check transmission fluid +Mud
+x 2016-07-28 Write out smog list for mud +Mud
+x 2016-07-28 test outline @work outline:test
+x 2016-07-29 Add all hipchat emojis @work (#pomo: 2/2)
+x 2016-07-30 2016-07-12 Get drugs from CVS @personal
+x 2016-08-01 Write Effort Point summation script @work
+x 2016-08-03 How to product owner @work (#pomo: 4/2)
+x 2016-08-04 2016-08-02 switch on hold and doing on Friday @work
+x 2016-08-03 Create Bug phase in pipefy @work
+x 2016-08-11 check email @work (#pomo: 0/1)
+x 2016-08-11 Email Dene berg IX125 @school
+x 2016-08-12 Submit smog paperwork @personal
+x 2016-08-15 create a how to Pipefy chapter @work
+x 2016-08-12 Signup for 4unit ge3 @school
+x 2016-08-14 Boot drive 4 Darren @work
+x 2016-08-16 Ds bathroom counter and toilet +today
+x 2016-08-16 derp around with ubunut vm @work (#pomo: 0/2)
+x 2016-08-16 cash check and tithe @personal
+x 2016-08-16 Burn down chart @work
+x 2016-08-17 Patio +today Pri:E
+x 2016-08-17 set up dev environment in windows bash for Tyler @work Pri:B
+x 2016-08-17 2016-08-14 Make Product Backlog for Room8s @personal +room8s Pri:B
+x 2016-08-18 Write mitchell letter @personal
+x 2016-08-18 setup dashing local server @work (#pomo: 0/1)
+x 2016-08-19 Add burn down to dashboard @work
+x 2016-08-19 Sign up for Hilton Honors and send code to Dane @personal
+x 2016-08-21 set up static IP for server @personal +server Pri:A
+x 2016-08-21 2016-08-21 Sign and submit ring tax form @personal @sarah
+x 2016-08-21 2016-08-21 setup SSH +server @personal Pri:A
+x 2016-08-21 2016-08-21 Put T-fluid in mud +Mud @personal
+x 2016-08-21 2016-08-17 ask Sarah's parents about birthday stuff @personal @sarah
+x 2016-08-21 Clean Kitchen @personal
+x 2016-08-21 2016-08-21 clear room @personal
+x 2016-08-21 2016-08-18 Checkout Midnight Commander https://github.com/MidnightCommander/mc @personal @work
+x 2016-08-22 Write QA page for MikeB @work (#pomo: 1/2)
+x 2016-08-22 @work Organize backlog and add bug tasks
+x 2016-08-22 Setup Dashing dashboard for scrum @work
+x 2016-08-29 add weekly checklist to task list @work (#pomo: 1/2)
+x 2016-08-29 Make retro form @work
+x 2016-08-29 get danny May Pt2 @work
+x 2016-08-29 setup voicemail @work
+x 2016-08-29 second pass on sprint planning meeting @work (#pomo: 0/1)
+x 2016-08-31 2016-08-21 laundry @personal
+x 2016-08-31 Sallie Mae loan dad @personal
+x 2016-08-31 Add class @school
+x 2016-09-02 2016-08-31 Task out UCI MVP @work (#pomo: 2/4)
+x 2016-09-12 Setup Oomba Vim Wiki
+x 2016-09-12 research kanban, and write up documentation on it @work
+x 2016-09-12 Clean off and organize desk @work
+x 2016-09-12 get contract from Rob and give it to Tracy @work
+x 2016-09-12 check on Rob and Daniel to see where they are at @work
+x 2016-09-14 check up with John regarding CCNA @work
+x 2016-09-15 check up with John regarding CCNA @work
+x 2016-09-15 move todo.txt config files out of Dropbox @persona @work
+x 2016-09-15 get company card, and set up LinkedIn premium account @work
+x 2016-09-15 2016-08-31 Checkout sync thing http://apt.syncthing.net/ +server @personal
+x 2016-09-15 Look at S7 stuff for Sarah @personal @sarah
+x 2016-09-15 Kitchen entry and bathroom floor +today
+x 2016-09-15 make harambe dashboard @work
+x 2016-09-16 Call mark from UCI @work
+x 2016-09-16 Call Dominick @work
+x 2016-09-16 Feedback Friday @work
+x 2016-09-18 Look up mad hatter costume @personal
+x 2016-09-18 Look up torch zippo insert @personal
+x 2016-09-19 fix obsession vim @work @personal
+x 2016-09-19 get amazon permission from Tyler again, and make staging assets public @work
+x 2016-09-20 Call financial aid office @school
+x 2016-09-21 get boards.oomba.com from mike J @work
+x 2016-09-21 Fix yels contact @work +Tracy
+x 2016-09-22 UCIcal @school
+x 2016-09-22 set up oomba-boards redirection rules @work
+x 2016-09-22 Get Ennys contract ready +Tracy
+x 2016-09-27 9/28/16 Class Survey LN:15 +IX115  @school
+x 2016-09-27 Set up group slack LN:16 +INF125 @school
+x 2016-09-27 setup UCI account and Venue Admins @work
+x 2016-09-28 Air table dress form @personal +wedding
+x 2016-09-28 Get kitty and John a new sink light @personal
+x 2016-10-01 Finish Craigslist ads give to Tracy @work
+x 2016-10-01 Set up group trello LN:17 +INF125 @school
+x 2016-10-01 Use tylers message to create craigslist post and give it to Tracy @work
+x 2016-10-01 finish filling out hired profile LN:5 +# Hiring for Oomba @work
+x 2016-10-01 Talk with tracy about team make sure to get information about time software +Tracy
+x 2016-10-01 Set up group github LN:18 +INF125 @school
+x 2016-10-01 write surround function for visual mode in vim @work @personal
+x 2016-10-01 swap markdown highlighting bold and italic @work
+x 2016-10-01 Add soap receipt to sheet
+x 2016-10-03 Buy Emery boards @personal
+x 2016-10-04 10/4/16 Design Studio 1 Pt.1 @school +IX121 (#pomo: 3/0)
+x 2016-10-05 Check for todo.txt pebble app @personal LN:9 +ADDDump @todo.txt
+x 2016-10-06 Create a project for kiosk payment @work
+x 2016-10-05 10/10/16 Into to JUnit Homework http://www.vogella.com/tutorials/JUnit/article.html LN:19 +INF115 @school Pri:A
+x 2016-10-06 get gamaliel set up @work
+x 2016-10-06 2016-09-01 Play with VPN @work
+x 2016-10-06 find autoline sorter for todo.txt +todo @work @personal
+x 2016-10-06 2016-08-19 Buy tickets http://www.ticketweb.com/t3/sale/SaleEventDetail?eventId=6805715&pl=daynniteblank2&dispatch=loadSelectionData&REFID=obs @personal
+x 2016-10-06 Write apology email to Angela Han and do everything you can to get a URL for her, if you can't, make a task for tomorrow @work @7today
+x 2016-10-06 Find email for Brian (blue resume) and talk to Tracy about the hiring process, make task for next step @work @7today
+x 2016-10-06 Ask Mike how to get a contract for ggleap, make it a task @work @7today
+x 2016-10-06 Create sepate dashboard pages put the stop/start/continue on each dashboard @work
+x 2016-10-07 Talk to MikeB about Official UCI player ranking @work @7today
+x 2016-10-07 Luke 1 you version plan @God @7today
+x 2016-10-07 Luke 1 you version plan @God @7today
+x 2016-10-07 Finish setting up URL for Angela Han @work @7today Pri:B
+x 2016-10-07 Ask Kitty about wedding gifts and engagement party @personal @7today
+x 2016-10-07 1 pom on +INF121 @school @7today
+x 2016-10-07 Schedule counselor appointment and update task @school @7today
+x 2016-10-07 Indeed, LinkedIn @work
+x 2016-10-07 Indeed, LinkedIn @work
+x 2016-10-07 2016-10-02 Add slackcat mapping to vimrc +vim @personal @work
+x 2016-10-10 Luke Ch.3 1st reading @personal @God @7today
+x 2016-10-10 Play harmonica @personal @7today
+x 2016-10-11 Sew all the things @personal @7today
+x 2016-10-11 Write email to Mikew @work @7today
+x 2016-10-13 10/12/16 Read: http://dannorth.net/introducing-bdd LN:213: +INF115 @school @7today
+x 2016-10-13 2 poms on +INF121 @school @7today
+x 2016-10-13 Have Sarah join account and set up direct deposit @personal +Sarah
+x 2016-10-13 Read Luke 3 2nd time @God @7today
+x 2016-10-13 Listen to sermon @God @7today
+x 2016-10-15 Get on your knees and pray @God @7today
+x 2016-10-15 2016-10-12 Have talk with Danny about work and paychecks @work @7today
+x 2016-10-15 Call venues on air table list @personal +wedding @7today
+x 2016-10-15 Print out tickets and request Monday off @7today @work
+x 2016-10-15 Shower @7today @personal
+x 2016-10-15 Check house emails @personal @7today
+x 2016-10-15 pick up room @personal @7today
+x 2016-10-15 Clean room (refill water jug) @personal
+x 2016-10-19 10/18/16 Design Studio 1 Pt.2 @school +INF121 (#pomo: 1/5) @7today
+x 2016-10-19 Help Sarah with student loan fedloan.gov @personal
+x 2016-10-19 Get loan on mint @personal
+x 2016-10-19 Check homework for all courses @school @7today
+x 2016-10-20 Do any homework that is due today @7today @school
+x 2016-10-20 Fix italics in vimwiki markdown files +vim LN:15 @personal
+x 2016-10-20 10/20/16 Group survey @school +INF121
+x 2016-10-22 Fill and submit for 2732 Monza @personal @7today
+x 2016-10-22 10/26/16 Start website for +INF125 @school
+x 2016-10-23 Clean room and unpack @7today @personal (#pomo: 1/1)
+x 2016-10-23 Shower and print out form for intent to move @personal @7today (#pomo: 2/3)
+x 2016-10-23 Call about fridge @7today
+x 2016-10-23 Homework 2 +INF115 @school https://eee.uci.edu/toolbox/dropbox/download.php/jajones_2016-10-17-INF115-HW2.pdf?op=getfile @7today (#pomo: 5/5)
+x 2016-10-24 Call back to Christina at Ponte Winery about venue things. @personal +wedding
+x 2016-10-25 Check up on each of the admin team @7today
+x 2016-10-25 Write Job application for Junior Mobile Developer @work (#pomo: 0/3)
+x 2016-10-25 Intent to move form @personal
+x 2016-10-25 10/20/16 Design Studio 1 team evaluations @school +INF121
+x 2016-10-25 call dad to talk about living situation @personal
+x 2016-10-25 send washer, dryer and fridge airtable form for tyler @personal @7today Pri:A
+x 2016-10-25 Convert and send Tracy Junior Dev Letter @7today @work Pri:B
+x 2016-10-25 cancel marvel account @7today Pri:A
+x 2016-10-26 get Tommy and Jessica a folder in drive with their hours forms @work @7today
+x 2016-10-26 figure out how to do interviews for +INF121 @school
+x 2016-10-26 figure out how to do interviews for +INF121 @school
+x 2016-10-26 Write Tracy Recommendation Letter @work
+x 2016-10-26 remap tab in insert mode to be ctrl t @personal +vim LN:40 +ADDDump
+x 2016-10-27 Send Jessica and Tommy's hours to Tracy @work @7today
+x 2016-10-27 Document all scrum stuff on spreadsheets @work @7today
+x 2016-10-27 contact Zach and get ggleap API access @work @7today
+x 2016-10-30 X Fix broken G in bash prompt @personal +server
+x 2016-10-30 X Do black out rooms @school +INF125
+x 2016-10-31 check in with Dante and see how his sprint is going @work @7today
+x 2016-10-31 Make markdown line wrapping auto format and stay indented +vim @school @personal LN:28 +ADDDump
+x 2016-11-01 10/31/16 Study for +INF121 Midterm @school (#pomo: 2/5) @7today
+x 2016-11-01 check in with Convergence and see how their sprint is going @work @7today
+x 2016-11-03 11/1/16 Study for +INF115 Midterm @school (#pomo: 1/5) @7today
+x 2016-11-03 Define the material +INF121 @school (#pomo: 1/0)
+x 2016-11-07 Implement orphan task step @work
+x 2016-11-07 renew FAFSA @school @personal
+x 2016-11-08 11/10/16 Design Studio 2 Pt.1 @school +INF121
+x 2016-11-08 do write up for ClassDojo +INF121 @school @7today
+x 2016-11-10 2016-10-30 Frame Fight Club 2 Poster @personal
+x 2016-11-14 Create Versioned Syncthing Backup @personal @7today: 1pom
+x 2016-11-14 Retrospective Bug Analysis @work
+x 2016-11-15 Create Seed File Card API @work @7today
+x 2016-11-15 Pull git repo and try to set up unity @7today @school +INF125
+x 2016-11-15 Email josh +ogreTournament @work @7today
+x 2016-11-15 Set up Internet to bedroom @7today @personal
+x 2016-11-15 Set up Internet to bedroom @7today @personal
+x 2016-11-15 Set up Internet to bedroom @7today @personal
+x 2016-11-16 Pull git repo and try to set up unity @7today @school +INF125
+x 2016-11-17 11/22/16 Design Studio 2 Pt.2 ERD description @school +INF121 @7today note:8dz.md Pri:A
+x 2016-11-17 fix mucomplete so that it only auto selects the first task in markdown files +vim @persona @school @work Pri:A
+x 2016-11-17 2016-11-17 Email Josh back @work Pri:A
+x 2016-11-18 2016-11-17 Check game date with final Exam +INF121 +INF125 @school @7today
+x 2016-11-17 2016-11-17 Finish prerequisite form +INF121 @7today Pri:A
+x 2016-11-18 Add navigation bar to the website @school +INF125 @7today
+x 2016-11-18 Install Spock for intellij idea LN:247 +INF115 @school
+x 2016-11-18 Nominate Mike B @work @7today
+x 2016-11-18 2016-11-17 Due: 2016-11-21 DS 2 Group review +INF121 @school @7today
+x 2016-11-22 11/21/16 Homework 3 +INF115 @school @7today
+x 2016-11-22 Clean harmonica @personal
+x 2016-11-24 2016-11-17 Talk to counselor about classes that you didn't get into +school @7today
+x 2016-11-26 Print out Ogre board @work @7today
+x 2016-11-26 2016-11-22 set up slack email notifications for pipefy  @7today @work
+x 2016-11-27 Dataflow diagram +INF121 @school
+x 2016-11-28 Get Ogre Game Going @work (#pomo: 2/0)
+x 2016-11-28 Finish Signing Up For Classes @school
+x 2016-11-29 12/1/16 Design Studio 3 @school +INF121
+x 2016-11-29 Add about page to website @school +INF125
+x 2016-12-01 finish taking notes on debugging for +INF115 @school
+x 2016-12-01 Talk to a counselor about INF101 @school
+x 2016-12-02 Start looking for an android and ios developer @work
+x 2016-12-02 Start looking for an android and ios developer @work
+x 2016-12-02 Make a dev FAQ @work (#pomo: 3/5)
+x 2016-12-03 finish website bios @school +INF125
+x 2016-12-05 install unity on desktop @school +INF125
+x 2016-12-05 Get start button to work +INF125 @school
+x 2016-12-07 print brochures @school +INF125
+x 2016-12-07 Finish start screen @school +INF125
+x 2016-12-07 Due: 2016-12-07 write team highlight for Staff meeting @work
+x 2016-12-07 Forward mailing address @persona
+x 2016-12-07 Write tasks for missing notes @school +INF121
+x 2016-12-11 Finish final study guide @school
+x 2016-12-12 Pay Wells Fargo Card Off, and figure out Wells Fargo checking account. @personal Pri:B
+x 2016-12-14 Buy parking permit @school
+x 2016-12-15 2016-12-12 Get Secret Santa gift for Ed @work
+x 2016-12-19 2016-12-12 Attach power strip to Tyler's desk @work
+x 2016-12-21 Make sin list @personal
+x 2016-12-20 fill out sprint spreadsheets @work
+x 2016-12-21 Set voicemail for desk phone @work
+x 2016-12-21 Post senior dev positions on github jobs @work
+x 2016-12-21 move todo to Google Drive @personal +todo.txt
+x 2016-12-21 put vim 8 on Arabella compiled with python and ruby +vim @personal
+x 2016-12-21 2016-12-12 Stress Test Oracle @work
+x 2016-12-21 Create Partnership Proposal For Tyler @personal
+x 2016-12-21 Buy 7 leaves @7today
+x 2016-12-21 Talk to Bergman about ready for demo slack notifications @7today @work
+x 2016-12-22 upgrade syncthing on Alice @personal @7today @7today
+x 2016-12-27 Have Ben take 16 personality test @personal
+x 2016-12-29 add ogre to alpha @work (#pomo: 2/0) Pri:A
+x 2017-01-02 research nonexistant google addresses @work
+x 2017-01-02 Check in on everyone @7today @work
+x 2017-01-02 2016-12-15 Buy Sarah's christmas gift @personal @sarah
+x 2017-01-02 setup bacula on server @personal +server @7today Pri:G
+x 2017-01-04 Have Bergman Talk With Enny About Xsplit App @work Pri:B
+x 2017-01-02 2016-12-29 Add Beer Pong To Alpha @work Pri:A
+x 2017-01-04 2017-01-02 Screen protect pebble @personal Pri:C
+x 2017-01-04 Time sheets @work Pri:A
+x 2017-01-04 Research database versioning Heroku @7today @work
+x 2017-01-04 2017-01-04 Get Angular Book For Tommy Jessica and Tyler @work Pri:A
+x 2017-01-05 2017-01-02 Finish Sarah's Glow Jar @7today @personal Pri:B
+x 2017-01-10 Finish survey @school +INF11
+x 2017-01-10 2017-01-09 Schedule admin app meeting @work
+x 2017-01-10 2017-01-05 Get bergman set up with Drift @work
+x 2017-01-10 Write up Job application for Designer @work
+x 2017-01-10 2017-01-09 Make events for un:apple@oomba.com pw:challengeeveryone Production @work Pri:B
+x 2017-01-10 2017-01-10 Torrent bravest warriors @personal
+x 2017-01-10 2017-01-02 clean room @personal
+x 2017-01-12 2017-01-11 Bring in Ohm meter @personal @work
+x 2017-01-16 2017-01-08 Sign up for seriously dating engaged course Jan 21st Pri:A
+x 2017-01-17 2017-01-13 Email charlotte from Microsoft again and cc mikea@oomba.com and damionb@microsoft.com @work Pri:A
+x 2017-01-17 @FAILED Assignment 1 pt.1 LN:22:  +INF122 @school due:2017-01-17 Pri:B
+x 2017-01-17 2017-01-17 Talk to Mike, Bjorn and Bergman about our process @work Pri:B
+x 2017-01-17 2017-01-17 Make sure change of address for is completed @work Pri:B
+x 2017-01-17 2017-01-17 Find a new avenue for searching for an Angular Developer @work Pri:A
+x 2017-01-18 HW 1 Applying Principles link:https://goo.gl/uEdjrM +INF131 @school due:2017-01-30
+x 2017-01-20 2017-01-18 Plan out the Scrum Meetings and send the agenda to everyone @work
+x 2017-01-20 2017-01-17 Tithe 135.93 @personal
+x 2017-01-22 2017-01-21 Call caterer or DJ @personal
+x 2017-01-24 HW 5 Business Case +INF151 @school (#pomo: 1/0) due:2017-01-24
+x 2017-01-23 2017-01-16 Add Quizzes to Calendar +INF151 @school
+x 2017-01-24 Assignment 1 pt.2 presentation LN:23: +INF122 @school (#pomo: 1/0) due:2017-01-24
+x 2017-01-24 QUIZ ch.4 +INF151 @school (#pomo: 1/0) due:2017-01-24
+x 2017-01-24 create algorithm oracle spreadsheet @work
+x 2017-01-24 2017-01-18 Ask Darren about judging emails @work Pri:B
+x 2017-01-24 2017-01-18 Get intern form from Tracy for team alpha @work Pri:B
+x 2017-01-24 2017-01-24 Screenshots for Bjorn @work Pri:A
+x 2017-01-24 usage @work
+x 2017-01-25 Talk to Rob about slow API pipe and cards on hold @work due:2017-01-25
+x 2017-01-25 talk to darren about beer pong @work Pri:A
+x 2017-01-25 test due:2017-01-25
+x 2017-01-25 test 2 due:2017-01-25
+x 2017-01-26 Scope and Groupwork Draft +INF151 @school due:2017-01-26
+x 2017-01-26 create mux for vim development +vim +programming @personal
+x 2017-01-26 Assignment 1 pt.2 final revision LN:23: +INF122 @school due:2017-01-26
+x 2017-01-26 write up seed requirements card for the API @work
+x 2017-01-29 talk to Jessica about her email. @work
+x 2017-01-30 HW 1 Applying Principles link:https://goo.gl/uEdjrM LN:10: +INF131 @school due:2017-01-30
+x 2017-01-31 review other assignment1-3 +INF122 @school due:2017-1-31
+x 2017-01-31 write up offical rules for Oomba Beer and create format @work
+x 2017-01-31 Assignment 1 pt.3 LN:24:  +INF122 @school due:2017-01-31
+x 2017-01-31 QUIZ ch.6 +INF151 @school due:2017-01-31
+x 2017-01-31 2017-01-25 Call and set up a tasting with Bekkers catering @personal
+x 2017-02-02 2017-02-01 Buy Sensodyne Complete Protection Extra Fresh toothpaste @personal
+x 2017-02-02 HW 6 Scope Statement +INF151 @school due:2017-02-02
+x 2017-02-06 QUIZ ch.7 +INF151 @school due:2017-02-02
+x 2017-02-06 Start HCI Diary link:https://goo.gl/vucrEJ +INF131 @school due:2017-02-02
+x 2017-02-02 2017-01-31 Make Team Alpha Calendar @work Pri:A
+x 2017-02-03 2017-02-02 Halo Tournament Write Up @work Pri:B
+x 2017-02-03 2017-02-02 Email Ian about Ogre @work Pri:B
+x 2017-02-03 2017-02-03 Meeting Agendas, write them @work Pri:A
+x 2017-02-06 QUIZ ch.5 +INF151 @school due:2017-02-02
+x 2017-02-06 Add Gantt Chart to Todo.txt +INF151 @school
+x 2017-02-08 Assignment 2 LN:25: +INF122 @school due:2017-02-07
+x 2017-02-08 HW 7 Project Gantt Chart +INF151 @school due:2017-02-07
+x 2017-02-09 Study For Midterm +INF151 @school due:2017-02-09
+x 2017-02-09 QUIZ Gosling and Mintzberg +INF151 @school due:2017-02-14
+x 2017-02-10 Figure Out Judging for Steve Jackson @work
+x 2017-02-12 2017-01-30 find 21 pilots tickets
+x 2017-02-13 Get scantron half sheet 50 question +INF151 @school due:2017-02-08
+x 2017-02-13 2017-02-02 Set up UX stuff @work Pri:C
+x 2017-02-13 2017-02-13 Tommy sick form @work Pri:A
+x 2017-02-13 Call evan to catch up @personal
+x 2017-02-13 QUIZ Gosling and Mintzberg +INF151 @school due:2017-02-14
+x 2017-02-14 Review cards for Tyler @personal +room8s
+x 2017-02-22 Study For Midterm Go through slides Feb.8 +INF131 @school due:2017-02-15
+x 2017-02-21 Fix magic headshot @work Pri:A
+x 2017-02-22 Do Online Midterm 3 online quizes +INF131 @school due:2017-02-15
+x 2017-02-22 Assignment 3 LN:26: +INF122 @school due:2017-02-16
+x 2017-02-22 HW 8 Cost Quality and Risk Management +INF151 @school due:2017-02-16
+x 2017-02-22 Assignment 4 LN:27: +INF122 @school due:2017-02-21
+x 2017-02-22 Set up oomba-dashboard to have xkcd comics on it @work
+x 2017-02-27 get book for +INF131 @school Pri:B
+x 2017-02-27 Fill out department questionair @work Pri:B
+x 2017-02-27 Fill out department updates @work Pri:A
+x 2017-02-27 test @7today due:2017-02-27
+x 2017-02-27 test @7today
+x 2017-02-27 test @7today
+x 2017-02-27 test @7today due:2017-02-28
+x 2017-02-27 test @7today
+x 2017-02-27 Add smart rules to tmuxinator S.M.A.R.T Pri:A
+x 2017-02-28 setup kanban for admin team @work Pri:A
+x 2017-03-01 Check out jotforms team alpha channel @work Pri:B
+x 2017-03-04 Make Mike event @personal
+x 2017-03-04 Assignment 3 +INF131 @school due:2017-02-27
+x 2017-03-04 Assignment 5 LN:28: +INF122 @school due:2017-03-02
+x 2017-03-06 2017-03-02 Fix Jessica's Axure CC @work
+x 2017-03-05 Xxx church @personal Pri:A
+x 2017-03-06 Group 5 evaluation @work @school +INF122 Pri:A
+x 2017-03-06 2017-02-21 Clean out videos on Madeline +FileBackup @personal
+x 2017-03-07 Tithe 272.12 @personal
+x 2017-03-08 Work with John on unrivaled @work Pri:A
+x 2017-03-08 create event find event buttons bug @work Pri:A
+x 2017-03-08 Events not showing up @work Pri:A
+x 2017-03-08 Set voicemail @work
+x 2017-03-10 Attach emails to Dante's card @work Pri:A
+x 2017-03-10 Get 1099 from Tracy @work Pri:A
+x 2017-03-10 Set up Kate and ron on box @work Pri:B
+x 2017-03-10 2017-03-10 Setup Box sync on Ophelia @work (#pomo: 1/0)
+x 2017-03-10 2017-03-10 Long term internship forms @work Pri:B
+x 2017-03-12 Tithe 136.05 @personal Pri:A
+x 2017-03-15 HW 9 Expectations Matrix +INF151 @school due:2017-03-07
+x 2017-03-14 Adds Doomtown: Reloaded, Epic Spell Wars - Both of them to production database @work Pri:A
+x 2017-03-18 Preliminary Design Final Project LN:29: +INF122 @school due:2017-03-09
+x 2017-03-18 Detailed Design Doc Final Project LN:30:  +INF122 @school due:2017-03-16
+x 2017-03-20 Send honeymoon book to Kitty @personal
+x 2017-03-20 2017-03-14 RTO for Wedding @work Pri:A
+x 2017-03-20 Cancel covenant eye @personal
+x 2017-03-20 Final Project LN:31: +INF122 @school due:2017-03-21
+x 2017-03-20 x 2017-03-18 Do course evaluations @school
+x 2017-03-20 90 day cycle write up +ceasars @work
+x 2017-03-20 2017-03-03 Resubmit assignment with name on everything
+x 2017-03-21 Assignment 4 +INF131 @school (#pomo: 1/0) due:2017-03-25
+x 2017-03-23 2017-03-23 Weekend On Call @work Pri:A
+x 2017-03-23 2017-03-23 Turn in Team Alpha forms @work Pri:B
+x 2017-03-24 2017-03-24 Email Braintree Back @work
+x 2017-03-27 Figure out slack payments @work Pri:B
+x 2017-03-27 Make Danny an admin @work Pri:A
+x 2017-03-27 Write up Oomba TV plan @work Pri:B
+x 2017-03-27 talk to bergman about Firefox incident
+x 2017-03-28 2017-03-27 Oomba Newsletter @work Pri:A
+x 2017-03-28 2017-03-27 Find a wireframing software that takes in JSON data @work Pri:B
+x 2017-03-29 Sanctioned format available create tournament - bug @work Pri:A
+x 2017-03-30 Ask Bergman if sanding should be links @work
+x 2017-03-29 Bug playfields aren't updating on next and auto generate @work Pri:A
+x 2017-03-30 2017-03-29 Send link for videos to John @work +unrivaled
+x 2017-03-30 fix tail light +Mud @personal
+x 2017-03-30 Group evaluation +122 @school due:2017-03-22
+x 2017-03-30 2017-03-21 Peer Review +INF122 @school +122 due:2017-03-23
+x 2017-03-30 2017-03-28 Get Tommy and Jessica set up with customer support @work Pri:A
+x 2017-03-30 Write agenda for Retrospective @work Pri:A
+x 2017-03-30 2017-03-30 Write Bio @work Pri:A
+x 2017-03-30 2017-03-30 Write up Oomba Fee agreement use Kickstarter @work Pri:B
+x 2017-03-30 2017-03-27 follow up with Ron about oomba TV doc @work Pri:B
+x 2017-03-31 Set up Veronicas trailer @work Pri:A
+x 2017-03-31 2017-03-31 tommy form @work Pri:A
+x 2017-03-31 2017-03-31 @blocked Make Jon Cao Run Hearthstone @work Pri:A
+x 2017-03-31 3.5% fee on entry fees @work Pri:A
+x 2017-04-04 Make test tournament user story @work
+x 2017-04-04 Drop 122B @work @school
+x 2017-04-04 Update FAFSA @personal Pri:A
+x 2017-04-04 Ask Sarah about Brookes Bday @personal +sarah
+x 2017-04-04 Schedule an interview with Keyvan @work
+x 2017-04-04 Talk to dad about inviting Derek to the wedding @personal
+x 2017-04-04 Let the Hogan's know you can go to Phoenix @personal
+x 2017-04-04 Get the Unrivaled Event Video @work https://app.pipefy.com/pipes/162617#cards/1797958
+x 2017-04-04 Simulate Firefox store events @work
+x 2017-04-05 90 day Tournament Cycle PPT @work Pri:A
+x 2017-04-06 Darren 1 alcohol @work Pri:B
+x 2017-04-06 Get more Save the dates from Sarah @personal Pri:B
+x 2017-04-07 Multiple personas can sign up for one event @work Pri:A
+x 2017-04-07 2017-04-06 iOS power point @work Pri:A
+x 2017-04-07 Remove Veronica Enny and Sally from pipefy, box and the Wiki @work Pri:A
+x 2017-04-10 Schedule chore tasks @personal Pri:A
+x 2017-04-10 plan next week @personal Pri:A
+x 2017-04-10 Assignment 1 +CS146 @school link: http://www.ics.uci.edu/~wayne/courses/cs146/a1.txt due:2017-04-10
+x 2017-04-10 iOS screenshots due:2017-04-07
+x 2017-04-11 Host Oomba TV somewhere @work https://app.pipefy.com/pipes/162617#cards/1797936 Pri:C
+x 2017-04-11 Setup VPN and SSH into Openlab +CS146 @school
+x 2017-04-11 2017-04-10 Contact Keyvan About setting Up Oomba.tv @work Pri:B
+x 2017-04-14 2017-04-07 Organize Meetings on calendar and link them to Agendas @work Pri:A
+x 2017-04-14 Fix job on linkedin @work Pri:A
+x 2017-04-14 @work finish adding bash-support stuff to repo Pri:A
+x 2017-04-14 find 3 articles relating to the history of data mangmente scholarly ones +INF148 @school @work
+x 2017-04-14 2017-04-10 Email annalisa about pre-honeymoon week @personal
+x 2017-04-14 2017-04-13 Finish getting Anthony Ramos setup
+x 2017-04-17 Crossword +INF148 @school due:2017-04-16
+x 2017-04-17 Write up for auto-generate with Bergman @work
+x 2017-04-19 Get anthony set up @work Pri:A
+x 2017-04-27 Walk through the entire next sprint in google calendar and make sure everyone agrees to the events they need to be a part of @work Pri:A
+x 2017-04-21 go for a run @personal Pri:A
+x 2017-04-28 schedule time on the weekend to respond to slack and keep it snoozed at all other times @personal
+x 2017-04-20 2017-04-20 Help John out with Unrivaled @work Pri:A
+x 2017-04-21 Mobile app needs pay with cash @work Pri:A
+x 2017-04-24 2017-04-21 get ari paid @work Pri:A
+x 2017-04-24 Call Hilton Pri:A
+x 2017-04-28 Tithe 136.06x3 @personal
+x 2017-04-29 2017-04-24 Practice the Android Demo @work
+x 2017-04-29 2017-04-25 Talk to Tyler about API team meeting @work
+x 2017-04-30 Get a hair cut @personal
+x 2017-05-02 setup todo.txt Outlines @persona +todo.txt @personal @7today +todo.txt
+x 2017-05-01 2017-05-01 Look at create game on admin app @work Pri:A
+x 2017-05-01 2017-05-01 Discuss game store issues with Darren @work Pri:A
+x 2017-05-02 2017-05-01 Respond to smokey joe about the bye situation @work Pri:A
+x 2017-05-03 2017-05-02 Terms and Conditions Assignment @school
+x 2017-05-03 2017-05-03 Send Timesheets to Tracy @work Pri:A
+x 2017-05-03 2017-05-03 Help Jessica with Axure Credit Card @work Pri:A
+x 2017-05-03 2017-05-03 Help Tracy with water cooler @work Pri:A
+x 2017-05-03 2017-05-03 Create 'QA Verified' Label so the QA guys can see which cards they have tested @work Pri:A
+x 2017-05-03 2017-05-03 Add David and Nick to Slack and Pipefy @work
+x 2017-05-03 2017-05-03 Call Michael from Mini War Games @work
+x 2017-05-03 2017-05-03 Figure out what to do with Richards 2 player advance elimination game
+x 2017-05-05 Talk about switching to swiss @work Pri:A
+x 2017-05-05 Get tax thing worked out @work Pri:A
+x 2017-05-04 2017-05-04 Talk to nick about video creation @work Pri:A
+x 2017-05-08 Buy remote book for Danny @work Pri:A
+x 2017-05-05 2017-05-05 Fix address for venue @work Pri:A
+x 2017-05-08 2017-05-05 Get mothersday gift for mom @personal
+x 2017-05-05 2017-05-05 Add tom@oomba.com to Slack @work Pri:A
+x 2017-05-05 2017-05-05 create slack and wiki logins for Tom Vonderan @work Pri:A
+x 2017-05-05 2017-05-05 Talk to marketing about the Kiosk App @work Pri:A
+x 2017-05-05 2017-05-05 Deal with broken Unrivaled @work Pri:A
+x 2017-05-05 2017-05-05 email Jilin about Oomba TV @work Pri:A
+x 2017-05-08 Organize google drive and make each team member a folder @work Pri:B
+x 2017-05-09 Send tickets for tick @personal picks
+x 2017-05-09 Dev list for Mike @work (#pomo: 1/0)
+x 2017-05-09 fix vim todo.txt +vim @personal

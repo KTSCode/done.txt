@@ -24,11 +24,14 @@
         }
         $lastWorkingDate = date("Y-m-").$lastWorkingDay;
       ?>
-      <form onsubmit="alert('submited')" >
-        <input type="date" value="<?php echo $lastWorkingDate; ?>" />
+      <form id="form-date-form">
+        <input type="date" id="date-field" value="<?php echo $lastWorkingDate; ?>" />
         <br />
         <input type="submit" value="Get Tasks"/>
       </form>
+      <div id="daily-stand-up">
+      </div>
     </div>
+    <script type="text/javascript" src="js/main.js"></script>
   </body>
 </html>
